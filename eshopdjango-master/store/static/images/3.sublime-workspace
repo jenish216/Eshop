@@ -1,0 +1,808 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"request"
+			],
+			[
+				"prod",
+				"product"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"fo",
+				"font-style\tproperty"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"col",
+				"col"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"pr",
+				"products"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"htt",
+				"HttpResponse"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"is",
+				"isExists"
+			],
+			[
+				"cu",
+				"customer_email"
+			],
+			[
+				"lo",
+				"login_email"
+			],
+			[
+				"border-ri",
+				"border-right-color\tproperty"
+			],
+			[
+				"border",
+				"border-left-color\tproperty"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"l",
+				"last_name"
+			],
+			[
+				"f",
+				"firstname"
+			],
+			[
+				"fi",
+				"first_name"
+			],
+			[
+				"la",
+				"lastname"
+			],
+			[
+				"first",
+				"firstname"
+			],
+			[
+				"back",
+				"background-repeat\tproperty"
+			],
+			[
+				"po",
+				"POST"
+			],
+			[
+				"ls",
+				"last_name"
+			],
+			[
+				"C",
+				"Customer"
+			],
+			[
+				"las",
+				"last_name"
+			],
+			[
+				"m",
+				"method"
+			],
+			[
+				"c",
+				"Customer"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"get",
+				"get_all_categories"
+			],
+			[
+				"car",
+				"categoryID"
+			],
+			[
+				"P",
+				"Product"
+			],
+			[
+				"categ",
+				"category_id"
+			],
+			[
+				"index",
+				"indexPage"
+			],
+			[
+				"si",
+				"savesignin"
+			],
+			[
+				"s",
+				"session"
+			],
+			[
+				"inde",
+				"indexPage"
+			],
+			[
+				"ve",
+				"vegetable"
+			],
+			[
+				"veg",
+				"vegForm"
+			],
+			[
+				"pa",
+				"page1"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"new",
+				"newemail"
+			],
+			[
+				"Mo",
+				"models"
+			],
+			[
+				"Re",
+				"RegModel"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"fl",
+				"inline-flex\tdisplay"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"bgc",
+				"background-color\tproperty"
+			],
+			[
+				"background-",
+				"background-size\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"Ima",
+				"imageField"
+			],
+			[
+				"p",
+				"publisher"
+			],
+			[
+				"ne",
+				"newcourse"
+			],
+			[
+				"up",
+				"uptitle"
+			],
+			[
+				"del",
+				"deldata"
+			],
+			[
+				"backgt",
+				"background-repeat\tproperty"
+			],
+			[
+				"font-s",
+				"font-style\tproperty"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"sav",
+				"savebook"
+			],
+			[
+				"mo",
+				"models"
+			],
+			[
+				"signup",
+				"SignupModel"
+			],
+			[
+				"S",
+				"SigninModel"
+			],
+			[
+				"sign",
+				"signinpage"
+			],
+			[
+				"e",
+				"endrollment"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"r",
+				"Redirectview"
+			],
+			[
+				"Not",
+				"NoticeAdmin"
+			],
+			[
+				"No",
+				"NoticeAdmin"
+			],
+			[
+				"no",
+				"NoticeModel"
+			],
+			[
+				"R",
+				"RegistrationModel"
+			],
+			[
+				"model",
+				"ModelAdmin"
+			],
+			[
+				"Login",
+				"LoginAdmin"
+			],
+			[
+				"mode",
+				"ModelAdmin"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"va",
+				"val3"
+			],
+			[
+				"for",
+				"forms"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"in",
+				"inline-flex\tdisplay"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"i",
+				"initial\tfont-family"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"inli",
+				"inline-flex\tdisplay"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"backg",
+				"background-repeat\tproperty"
+			],
+			[
+				"background",
+				"background-image\tproperty"
+			],
+			[
+				"co",
+				"coffee"
+			],
+			[
+				"resu",
+				"result"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"produ",
+				"products"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"backgound-",
+				"background-image\tproperty"
+			],
+			[
+				"ht",
+				"HttpResponse"
+			],
+			[
+				"val",
+				"val1"
+			],
+			[
+				"d",
+				"dict"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"bg",
+				"background-color\tproperty"
+			],
+			[
+				"trans",
+				"translateY()\ttransform"
+			],
+			[
+				"tra",
+				"transform\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"bo",
+				"border-radius\tproperty"
+			],
+			[
+				"blo",
+				"block\tdisplay"
+			],
+			[
+				"tr",
+				"transform-origin\tproperty"
+			],
+			[
+				"sp",
+				"word-spacing\tproperty"
+			],
+			[
+				"it",
+				"align-items\tproperty"
+			],
+			[
+				"20",
+				"200px"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"ch",
+				"choclate"
+			],
+			[
+				"tran",
+				"transition\tproperty"
+			],
+			[
+				"image",
+				"images"
+			],
+			[
+				"border-",
+				"border-radius\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"U",
+				"uppercase\ttext-transform"
+			],
+			[
+				"ta",
+				"transition"
+			],
+			[
+				"fnt-",
+				"font-style\tproperty"
+			],
+			[
+				"js",
+				"jsRed"
+			],
+			[
+				"Co",
+				"Container"
+			],
+			[
+				"sw",
+				"swing"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"spi",
+				"spiner"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Bookmarks: Select Previous"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 77.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Nirav Parekh/Desktop/shop/eshopdjango-master/store/models/category.py",
+		"/C/Users/Nirav Parekh/Desktop/shop/eshopdjango-master/store/templates/index.html",
+		"/C/Users/Nirav Parekh/Desktop/shop/eshopdjango-master/store/views/signup.py",
+		"/C/Users/Nirav Parekh/Desktop/shop/eshopdjango-master/store/templates/view.html",
+		"/C/Users/Nirav Parekh/Desktop/shop/eshopdjango-master/store/views/home.py",
+		"/C/Users/Nirav Parekh/Desktop/shop/eshopdjango-master/store/urls.py",
+		"/C/Users/Nirav Parekh/Desktop/eshop/eshopdjango-master/store/urls.py",
+		"/C/Users/Nirav Parekh/Desktop/gstore/Eshop/store/urls.py",
+		"/C/Users/Nirav Parekh/Desktop/n1/instagram.html",
+		"/C/Users/Nirav Parekh/Desktop/gstore/Eshop/store/views.py",
+		"/C/Users/Nirav Parekh/Desktop/gstore/Eshop/store/views/home.py",
+		"/C/Users/Nirav Parekh/Desktop/django/dictionary/p1/blog/templates/python.html",
+		"/C/Users/Nirav Parekh/Desktop/gstore/Eshop/store/static/js/cart.js",
+		"/C/Users/Nirav Parekh/Desktop/django/dictionary/p1/blog/templates/home.html",
+		"/C/Users/Nirav Parekh/Desktop/django/dictionary/p1/blog/templates/index,html",
+		"/C/Users/Nirav Parekh/Desktop/gstore/Eshop/store/views/signup.py",
+		"/C/Users/Nirav Parekh/Desktop/gstore/Eshop/store/views/login.py",
+		"/C/Users/Nirav Parekh/Desktop/gstore/Eshop/store/store.py",
+		"/C/Users/Nirav Parekh/Desktop/New Text Document.html",
+		"/C/Users/Nirav Parekh/Desktop/formp/p1/blog/templates/signup.html",
+		"/C/Users/Nirav Parekh/Desktop/formp/p1/blog/views.py",
+		"/C/Users/Nirav Parekh/Desktop/formp/p1/blog/templates/page1.html",
+		"/C/Users/Nirav Parekh/Desktop/django/project2/p1/blog/views.py",
+		"/C/Users/Nirav Parekh/Desktop/django/project2/p1/blog/templates/f.html",
+		"/C/Users/Nirav Parekh/Desktop/gstore/Eshop/store/templates/index.html",
+		"/C/Users/Nirav Parekh/Desktop/sessiondemo/sessionapp/views.py",
+		"/C/Users/Nirav Parekh/Desktop/nirav/crudapplication/templates/html.html",
+		"/C/Users/Nirav Parekh/Desktop/nirav/crudapplication/views.py",
+		"/C/Users/Nirav Parekh/Desktop/Framedemo.java",
+		"/C/Users/Nirav Parekh/Desktop/webapp/crudapplication/views.py",
+		"/C/Users/Nirav Parekh/Desktop/webapp/crudapplication/admin.py",
+		"/C/Users/Nirav Parekh/Desktop/webapp/crudapplication/templates/index.html",
+		"/C/Users/Nirav Parekh/Desktop/webapp/webapp/settings.py",
+		"/C/Users/Nirav Parekh/Desktop/django/project2/p1/blog/templates/d.html",
+		"/C/Users/Nirav Parekh/Desktop/dvwa/config/config.inc.php",
+		"/C/Users/Nirav Parekh/Desktop/django/project2/p1/blog/templates/profile.html",
+		"/C/Users/Nirav Parekh/Desktop/dvwa.txt",
+		"/C/Users/Nirav Parekh/Desktop/standard.html",
+		"/C/Users/Nirav Parekh/Desktop/gstore/Eshop/store/templates/slider.html",
+		"/C/Users/Nirav Parekh/Desktop/gstore/Eshop/products/24818.jpg",
+		"/C/Users/Nirav Parekh/Desktop/project2/p1/blog/templates/profile.html",
+		"/C/Users/Nirav Parekh/Desktop/n1/fl.html",
+		"/C/Users/Nirav Parekh/Desktop/project2/p1/blog/media/images/Screenshot_19.png",
+		"/C/Users/NIRAVP~1/AppData/Local/Temp/a48vuo7y.bmp",
+		"/C/Users/Nirav Parekh/Desktop/project2/p1/blog/templates/signin.html",
+		"/C/Users/NIRAVP~1/AppData/Local/Temp/efjp9isl.bmp",
+		"/C/Users/Nirav Parekh/Desktop/project2/p1/blog/templates/f.html",
+		"/C/Users/Nirav Parekh/Desktop/project2/p1/blog/models.py",
+		"/C/Users/Nirav Parekh/Desktop/project2/p1/blog/views.py",
+		"/C/Users/Nirav Parekh/Desktop/project2/p1/blog/templates/update.html",
+		"/C/Users/Nirav Parekh/Desktop/project2/p1/p1/settings.py",
+		"/C/Users/Nirav Parekh/Desktop/project2/p1/blog/templates/book.html",
+		"/C/Users/Nirav Parekh/Desktop/project2/p1/blog/apps.py",
+		"/C/Users/Nirav Parekh/Desktop/project2/p1/blog/templates/signup.html",
+		"/C/Users/Nirav Parekh/Desktop/project2/p1/blog/tests.py",
+		"/C/Users/Nirav Parekh/Desktop/project2/p1/p1/urls.py",
+		"/C/Users/Nirav Parekh/Desktop/project2/p1/blog/templates/main.html",
+		"/C/Users/Nirav Parekh/Desktop/project2/p1/media/profile_image/24818.jpg",
+		"/C/Users/Nirav Parekh/Desktop/project2/p1/book/Screenshot_29.png",
+		"/C/Users/Nirav Parekh/Desktop/project2/p1/images/index.jpg",
+		"/C/Users/Nirav Parekh/Desktop/project2/p1/blog/templates/s.html",
+		"/C/Users/Nirav Parekh/Desktop/project2/p1/blog/templates/register.html",
+		"/C/Users/Nirav Parekh/Desktop/project2/p1/blog/admin.py",
+		"/C/Users/Nirav Parekh/Desktop/project2/p1/blog/__init__.py",
+		"/C/Users/Nirav Parekh/Desktop/project2/p1/blog/templates/d.html",
+		"/C/Users/Nirav Parekh/Desktop/project2/p1/p1/__init__.py",
+		"/C/Users/Nirav Parekh/Desktop/project2/p1/p1/asgi.py",
+		"/C/Users/Nirav Parekh/Desktop/project2/p1/blog/templates/display.html",
+		"/C/Users/Nirav Parekh/Desktop/project2/p1/blog/templates/edit.html",
+		"/C/Users/Nirav Parekh/Desktop/project2/p1/db.sqlite3",
+		"/C/Users/Nirav Parekh/Desktop/advance java/registration/src/servlet/servletdemo.java",
+		"/C/Users/Nirav Parekh/Desktop/youtube/dj/dj4/college/models.py",
+		"/C/Users/Nirav Parekh/Desktop/project 1/p1/blog/views.py",
+		"/C/Users/Nirav Parekh/Desktop/pr/p1/blog/admin.py",
+		"/C/Users/Nirav Parekh/Desktop/pr/p1/blog/templates/f.html",
+		"/C/Users/Nirav Parekh/Desktop/pr/p1/blog/templates/s.html",
+		"/C/Users/Nirav Parekh/Desktop/pr/p1/p1/settings.py",
+		"/C/Users/Nirav Parekh/Desktop/flappy/FlappyBird.java",
+		"/C/Users/Nirav Parekh/Desktop/AnyDesk.exe",
+		"/C/Users/Nirav Parekh/Desktop/fs/p1/blog/views.py",
+		"/C/Users/Nirav Parekh/Desktop/fs/p1/blog/templates/home.html",
+		"/C/Users/Nirav Parekh/Desktop/pr/p1/blog/templates/result.html",
+		"/C/Users/Nirav Parekh/Desktop/pr/p1/p1/urls.py",
+		"/C/Users/Nirav Parekh/Desktop/register/dj12/college/templates/college/notice_detail.html",
+		"/C/Users/Nirav Parekh/Desktop/scrollpane.java",
+		"/C/Users/Nirav Parekh/Desktop/grid.java",
+		"/C/Users/Nirav Parekh/Desktop/BorderLayoutDemo.java",
+		"/C/Users/Nirav Parekh/Desktop/BorderLayout.java",
+		"/C/Users/Nirav Parekh/Desktop/orm/djdb/college/admin.py",
+		"/C/Users/Nirav Parekh/Desktop/clg/p1/blog/admin.py",
+		"/C/Users/Nirav Parekh/Desktop/orm/djdb/college/__init__.py",
+		"/C/Users/Nirav Parekh/Desktop/email/MyProject/MyApp/form.py",
+		"/C/Users/Nirav Parekh/Desktop/clg/p1/blog/static/style.css",
+		"/C/Users/Nirav Parekh/Desktop/html/style.css",
+		"/C/Users/Nirav Parekh/Desktop/clg/p1/blog/templates/index.html",
+		"/C/Users/Nirav Parekh/Desktop/html/1.html",
+		"/C/Users/Nirav Parekh/Desktop/DeleteDemo2.java",
+		"/C/Users/Nirav Parekh/Desktop/clg/p1/blog/templates/about.html",
+		"/C/Users/Nirav Parekh/Desktop/clg/p1/blog/views.py",
+		"/C/Users/Nirav Parekh/Desktop/clg/p1/p1/urls.py",
+		"/C/Users/Nirav Parekh/Desktop/website/p1/p1/urls.py",
+		"/C/Users/Nirav Parekh/Desktop/website/p1/blog/views.py",
+		"/C/Users/Nirav Parekh/Desktop/website/p1/blog/templates/about.html",
+		"/C/Users/Nirav Parekh/Desktop/nnc/p1/blog/urls.py",
+		"/C/Users/Nirav Parekh/Desktop/nnc/p1/blog/templates/index.html",
+		"/C/Users/Nirav Parekh/Desktop/nnc/p1/blog/templates/k.html",
+		"/C/Users/Nirav Parekh/Desktop/dj/dj4/college/urls.py",
+		"/C/Users/Nirav Parekh/Desktop/dj/dj4/dj4/urls.py",
+		"/C/Users/Nirav Parekh/Desktop/website/p1/blog/templates/main.html",
+		"/C/Users/Nirav Parekh/Desktop/nnc/p1/blog/static/style.css",
+		"/C/Users/Nirav Parekh/Desktop/website/p1/p1/settings.py",
+		"/C/Users/Nirav Parekh/Desktop/nnc/p1/blog/views.py",
+		"/C/Users/Nirav Parekh/Desktop/nnc/p1/blog/static/under.css",
+		"/C/Users/Nirav Parekh/Desktop/nnc/p1/blog/static/images/Thailand.jpg",
+		"/C/Users/Nirav Parekh/Desktop/nnc/p1/blog/static/images/4.jpg",
+		"/C/Users/Nirav Parekh/Desktop/nnc/p1/blog/static/images/5.jpg",
+		"/C/Users/Nirav Parekh/Desktop/nnc/p1/blog/static/images/a.jpg",
+		"/C/Users/Nirav Parekh/Desktop/nnc/p1/blog/static/images/a2.jpg",
+		"/C/Users/Nirav Parekh/Desktop/DisplayFrame.java",
+		"/C/Users/Nirav Parekh/Desktop/DispCalc.java",
+		"/C/Users/Nirav Parekh/Desktop/calcform.java",
+		"/C/Users/Nirav Parekh/AppData/Local/Microsoft/Windows/INetCache/IE/JFW3U4D3/Loginstatic[1].java",
+		"/C/Users/Nirav Parekh/AppData/Local/Microsoft/Windows/INetCache/IE/DZKMG7PO/FirstCMPage[1].java",
+		"/C/Users/Nirav Parekh/AppData/Local/Microsoft/Windows/INetCache/IE/39LYVW7Z/Login[1].java",
+		"/C/Users/Nirav Parekh/Desktop/tabbed.java",
+		"/C/Users/Nirav Parekh/Desktop/fs/p1/blog/models.py",
+		"/C/Users/Nirav Parekh/Desktop/fs/p1/blog/tests.py",
+		"/C/Users/Nirav Parekh/Desktop/fs/p1/blog/static/style.css"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 54.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "3.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 242.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
